@@ -10,5 +10,5 @@ You'll probably want to install the [patched fonts](https://github.com/Lokaltog/
 ```bash
 brew tap Goles/battery
 brew install battery
-curl http://rawgithub.com/joshhunt/tmux.conf/blob/master/tmux.conf > .tmux.conf
+curl https://raw.githubusercontent.com/joshhunt/tmux.conf/master/tmux.conf > .tmux.conf
 ```
